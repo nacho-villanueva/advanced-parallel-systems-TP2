@@ -20,7 +20,7 @@ Once installed you can install the python requirements by running the following 
   pip install requirements.txt
 ```
     
-## Usage/Examples
+## Usage
 In order to execute the script, you simply have to run the main.py script. At the top of the script
 you will be able to find all the adjustable parameters.
 
