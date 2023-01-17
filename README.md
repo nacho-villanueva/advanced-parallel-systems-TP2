@@ -17,7 +17,7 @@ This is very OS and CPU/GPU dependent, therefore in order to find your correct I
 
 Once installed you can install the python requirements by running the following command
 ```bash
-  pip install -r requirements.txt
+  pip install requirements.txt
 ```
     
 ## Usage/Examples
@@ -48,8 +48,8 @@ Thanks to OpenCL being a crossplatform framework, the execution is not dependant
 2) Scope: Considering the objective of this project, which is to explore parallel systems, the scope of the algorithm chosen tended to shadow the project's objective. The complex mathematics and variety of variables affected resulted being more of a problem than learning OpenCL.
 3) Debugging: Debugging parallel systems resulted being quite complex. Different to sequential code, in a parallel system you cannot try to debug line by line, how you would do in a normal system, which resulted in having to concur to more creative ways to debug the system.
 ## References
-1. Xing Mei, Philippe Decaudin, Bao-Gang Hu. Fast Hydraulic Erosion Simulation and Visualization
+[1] Xing Mei, Philippe Decaudin, Bao-Gang Hu. Fast Hydraulic Erosion Simulation and Visualization
 on GPU. PG ’07 - 15th Pacific Conference on Computer Graphics and Applications, Oct 2007, Maui,
 United States. [https://hal.inria.fr/inria-00402079/document]
 
-2. https://huw-man.github.io/Interactive-Erosion-Simulator-on-GPU/
+[2] https://huw-man.github.io/Interactive-Erosion-Simulator-on-GPU/
