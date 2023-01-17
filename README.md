@@ -17,7 +17,7 @@ This is very OS and CPU/GPU dependent, therefore in order to find your correct I
 
 Once installed you can install the python requirements by running the following command
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
     
 ## Usage/Examples
